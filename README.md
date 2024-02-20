@@ -2,7 +2,7 @@
 Project of the GROUP 6 for the TXA Exam (UNIPI)
 
 The link to download the dataset is the following: https://zenodo.org/records/8248658
-For the training we are using mainly the dataset named "arguments-training.tsv" for now, 
+For the training part, we are using mainly the dataset named "arguments-training.tsv", 
 the labels are in the document "labels-training.tsv", the test set is the "argumets-test.tsv" file, labels for the test set are in the "labels-test.tsv" file.
 
-Overleaf link for the report: https://tex.dm.unipi.it/project/65882bf6ec966ba9eea38d05
+## File for the report: TXA_Report.pdf
